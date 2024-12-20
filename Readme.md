@@ -25,15 +25,25 @@ python datavisualing.py
 Project Structure
 graphql
 
-COVID-19-Data-Analysis/
+## 📁 Project Structure
+
+```
+📁COVID-19-Data-Analysis/
 │
-├── data/               # COVID-19 data
+├── 📁data/               # COVID-19 data
 │   └── worldometer_data.csv  # Downloaded CSV data file
 │
-├── src/                # Source code
+├── 📁src/                # Source code
 │   └── datavisualing.py  # Visualization functions
-│      
+├──📁visualtion-images/    
+│      └── image.png
+│      └── image-1.png 
+│      └── image-2.png 
+│      └── image-3.png 
+│      └── image-4.png 
 └── README.md          # Project information
+
+```
 Installation and Dependencies
 
 ## This project uses the following Python libraries:
