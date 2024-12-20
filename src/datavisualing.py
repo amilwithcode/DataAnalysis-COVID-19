@@ -2,7 +2,7 @@
 # import matplotlib.pyplot as plt
 # import seaborn as sns
 
-# data = pd.read_csv('worldometer_data.csv')  # Faylın doğru adını daxil edin
+# data = pd.read_csv('data/worldometer_data.csv')  # Faylın doğru adını daxil edin
 
 # # Sütun adlarını uyğunlaşdırmaq 
 # data.rename(columns={
