@@ -1,10 +1,13 @@
-COVID-19 Data Analysis
+# COVID-19 Data Analysis
+
 This project is designed to analyze data related to COVID-19. The analysis includes various statistics about the pandemic, such as infection cases, death toll, recoveries, and country-wise statistics.
 
-Project Overview
+## Project Overview
+
 Data Set: The COVID-19 dataset includes global and country-level data collected over different time intervals.
 Data Preprocessing: The data has been cleaned and transformed into a suitable format for analysis.
-Analyses:
+
+## Analyses:
 Comparison of infection and death cases across different regions.
 Estimation of the spread rate of COVID-19 in highly affected countries.
 Regional statistics for recovery rates.
@@ -14,11 +17,11 @@ To run the project, follow the steps below:
 
 Install the required libraries:
 
-Download the data:
+## Download the data:
 The data is located in the data/ folder. If the data is not available, you can download it from here.
 
-Run the analysis:
-python covid_analysis.py
+## Run the analysis:
+python datavisualing.py
 Project Structure
 graphql
 
@@ -32,21 +35,24 @@ COVID-19-Data-Analysis/
 │      
 └── README.md          # Project information
 Installation and Dependencies
-This project uses the following Python libraries:
 
-Pandas
-Matplotlib
-Seaborn
-Plotly
-Scikit-learn
+## This project uses the following Python libraries:
+
+-Pandas
+-Matplotlib
+-Seaborn
+-Plotly
+-Scikit-learn
+
 To install these dependencies, run:
-
-
 pip install pandas matplotlib seaborn plotly scikit-learn
-Additional Information
+
+## Additional Information
+
 Data Source: The data is sourced from Our World in Data platform.
 Notes: Key statistics of COVID-19 are highlighted throughout the analysis.
-Contact
+
+## Contact
 If you have any questions, feel free to contact me at mywithcontact@gmail.com.
 
 ![Data Analysis Heading](./visualtion-images/image.png)
